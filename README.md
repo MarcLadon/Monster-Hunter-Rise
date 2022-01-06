@@ -1,6 +1,6 @@
 # Dark Souls 3 Cheat Sheet
 
-To view the cheat sheet [click here](http://MarcLadon.github.io/dark-souls-3/).
+To view the cheat sheet [click here](http://MarcLadon.github.io/Dark-Souls-3/).
 
 | Class   | Description |
 |---      |--- |
